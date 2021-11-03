@@ -4,7 +4,7 @@ fork of Blekathlon theme for Bludit
 
 [//]: <> (This is also a comment.)
 
-[//]: <> (![screenshot](https://blthemes.pp.ua/blekathlon/bl-content/uploads/blekathlon.png
+[//]: <> ((![screenshot](https://blthemes.pp.ua/blekathlon/bl-content/uploads/blekathlon.png
  "Blekathlon"))
 
 [Live Demo](https://blthemes.pp.ua/blekathlon/)
