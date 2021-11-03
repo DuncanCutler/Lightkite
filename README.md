@@ -1,6 +1,6 @@
 # Lightkite
 
-fork of Blekathlon theme for Bludit
+fork of Blekathlon theme for Bludit CMS
 
 [//]: <> (This is a comment.)
 
