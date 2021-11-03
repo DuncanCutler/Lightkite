@@ -1,7 +1,7 @@
 # Lightkite
 
 Blekathlon - Modern, elegant and fast Bludit theme for your blog, portfolio or showcase site
-![screenshot](https://blthemes.pp.ua/blekathlon/bl-content/uploads/blekathlon.png
+#![screenshot](https://blthemes.pp.ua/blekathlon/bl-content/uploads/blekathlon.png
  "Blekathlon")
 
 [Live Demo](https://blthemes.pp.ua/blekathlon/)
