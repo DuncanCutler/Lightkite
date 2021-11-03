@@ -4,10 +4,9 @@ fork of Blekathlon theme for Bludit
 
 [//]: <> (This is also a comment.)
 
-[//]: <> ((![screenshot](https://blthemes.pp.ua/blekathlon/bl-content/uploads/blekathlon.png
- "Blekathlon"))
+[//]: <> (![screenshot](https://blthemes.pp.ua/blekathlon/bl-content/uploads/blekathlon.png)
 
-[Live Demo](https://blthemes.pp.ua/blekathlon/)
+
 
 BlThemes - Themes for [Bludit](https://github.com/bludit/bludit) CMS version 3+
 
